@@ -1,0 +1,5 @@
+-initial commit
+-added advertisment detection
+-added auto skipper
+-added production.min.js
+-added bookmarklet version
