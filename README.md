@@ -33,6 +33,9 @@ By using this script, you agree to **take full responsibility** for your actions
 - added production.min.js📦
 - added bookmarklet version🔖
 
+# V1.1
+- added message broadcast when ad is blocked📢
+- uses vw and vh for dynamic styling📐
 ## License
 ```
 BSD 3-Clause License

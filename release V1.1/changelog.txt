@@ -1,0 +1,2 @@
+-added message broadcast when ad is blocked
+-uses vw and vh for dynamic styling
