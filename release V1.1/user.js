@@ -46,7 +46,7 @@ setInterval(function () {
         if (video) {
             video.playbackRate = 16.0;
         }
-        const skipButton = document.querySelector(".ytp-ad-skip-button.ytp-button");
+        const skipButton = document.querySelector(".ytp-ad-skip-button-modern.ytp-button");
         if (skipButton !== undefined) {
             skipButton.click();
         }
