@@ -36,6 +36,9 @@ By using this script, you agree to **take full responsibility** for your actions
 # V1.1
 - added message broadcast when ad is blocked📢
 - uses vw and vh for dynamic styling📐
+
+# V1.2
+- updated stylings📐
 ## License
 ```
 BSD 3-Clause License
