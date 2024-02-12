@@ -39,6 +39,12 @@ By using this script, you agree to **take full responsibility** for your actions
 
 # V1.2
 - updated stylings📐
+
+# V1.3
+- remove adblock alert🚫
+- added hide advertisement👀
+- added mute advertisement🔇
+
 ## License
 ```
 BSD 3-Clause License
