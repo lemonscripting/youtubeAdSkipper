@@ -45,6 +45,13 @@ By using this script, you agree to **take full responsibility** for your actions
 - added hide advertisement👀
 - added mute advertisement🔇
 
+# V1.4
+- updated hooks✅
+- fixed ad skip not working🛠️
+- added user customisation🎨
+- cleaned up code🧹
+- added mute when playing ad🔇
+
 ## License
 ```
 BSD 3-Clause License

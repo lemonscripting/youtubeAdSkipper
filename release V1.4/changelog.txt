@@ -1,0 +1,5 @@
+-updated hooks✅
+-fixed ad skip not working🛠️
+-added user customisation🎨
+-cleaned up code🧹
+-added mute when playing ad🔇
