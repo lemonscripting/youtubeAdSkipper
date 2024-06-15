@@ -52,6 +52,10 @@ By using this script, you agree to **take full responsibility** for your actions
 - cleaned up code🧹
 - added mute when playing ad🔇
 
+# V1.5
+- updated hooks✅
+- updated logic🛠️
+
 ## License
 ```
 BSD 3-Clause License
