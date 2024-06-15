@@ -15,13 +15,6 @@ This script is compatible with all devices. 💻
 ## Usage
 The scripts check for ads present in the current player and speeds up the player to 16 times speed (maximum playback speed for most devices) to clicks the skip button whenever available🔧
 
-# Instructions
-
-Drag the link below to your bookmarks bar:
-
-[youtubeAdSkipper V1.5](javascript:'use%20strict'%3Bconst%20SPEED%3D100%2CmainVideo%3Ddocument.querySelector(%22video.video-stream.html5-main-video%22)%2CskipButton%3Ddocument.querySelector(%22.ytp-skip-ad-button%22)%3BsetInterval(function()%7Bdocument.querySelector(%22.ytp-ad-player-overlay-layout__ad-info-container%22)%3F(mainVideo.playbackRate%3D16%2CmainVideo.volume%3D0%2Cnull!%3D%3DskipButton%26%26void%200!%3D%3DskipButton%26%26skipButton.click())%3A(mainVideo.playbackRate%3D1%2CmainVideo.volume%3D1%2CmainVideo.style.display%3D%22block%22)%7D%2CSPEED)%3Bvoid+0)
-
-
 ## Disclaimer
 This script is for **educational purposes only**. The author does not endorse or encourage any **illegal or unethical activities**. The author is not responsible for any **harm or damage** caused by the use of this script. Use at **your own risk**.
 
