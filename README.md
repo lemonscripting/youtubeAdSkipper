@@ -56,6 +56,12 @@ By using this script, you agree to **take full responsibility** for your actions
 - updated hooks✅
 - updated logic🛠️
 
+# V1.6 [incomplete]
+- added anti detection🛠️
+- added block banner ad🛠️
+- added block search ad🛠️
+- fixed hook 🛠️
+
 ## License
 ```
 BSD 3-Clause License

@@ -1,0 +1,4 @@
+-added anti detection🛠️
+-added block banner ad🛠️
+-added block search ad🛠️
+-fixed hook 🛠️
